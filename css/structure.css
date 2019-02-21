@@ -1319,8 +1319,9 @@ timeline {
     }
 
     .footer {
-        padding-top: 10px;
+        
         padding-bottom: 10px;
+	    height:200px;
     }
 
     .footer__copyright,
