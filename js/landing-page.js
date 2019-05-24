@@ -17,6 +17,7 @@ if (!Object.keys) {
 }
 
 $(document).ready(function() {
+    $("#jsDate").text(Utils.getFullYear());
     /**
      * Initialise the mobile orientation handler
      */
